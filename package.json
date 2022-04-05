@@ -1,0 +1,22 @@
+{
+  "name": "paska",
+  "version": "1.0.0",
+  "description": "a simple AI",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "machine learning",
+    "neural networks",
+    "artificial intelligence",
+    "deep learning",
+    "Data science"
+  ],
+  "dependencies": {
+    "JsonDB": "JsonDB 1.0.0"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Friday Candour",
+  "license": "MIT"
+}

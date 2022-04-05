@@ -1,1 +1,1 @@
-# Paska
+# Paska AI
